@@ -1,0 +1,1 @@
+Prototype fedarated bundles for Vaadin components
